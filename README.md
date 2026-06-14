@@ -5,9 +5,9 @@
 **Curso:** Ciência da Computação  
 
 ##  Sobre o Projeto
-  O PortfolioHUB é uma plataforma centralizada desenvolvida para exibir e gerenciar projetos e portfólios digitais[cite: 8]. [cite_start]Este repositório documenta a implantação completa do sistema, integrando práticas avançadas de versionamento, segurança e gestão de acessos via GitHub[cite: 9].
+  O PortfolioHUB é uma plataforma centralizada desenvolvida para exibir e gerenciar projetos e portfólios digitais. [cite_start]Este repositório documenta a implantação completa do sistema, integrando práticas avançadas de versionamento, segurança e gestão de acessos via GitHub.
 
-  Todo o processo de planejamento, configuração e auditoria de segurança deste projeto contou com o apoio e guia da inteligência artificial **Google Gemini**[cite: 10].
+  Todo o processo de planejamento, configuração e auditoria de segurança deste projeto contou com o apoio e guia da inteligência artificial **Google Gemini**.
 
 ##  Estrutura da Implantação
 
