@@ -26,7 +26,7 @@ O projeto foi estruturado em seis fases principais para garantir robustez e conf
 - **Gestão de Acessos:** Apenas colaboradores autorizados possuem permissão de escrita no repositório.
 
 ##  Apresentação Final
-video do yt
+[video do yt](https://youtu.be/bQej9tviGts)
 > "Neste vídeo, discuto as soluções implementadas e os desafios superados durante a implantação do PortfolioHUB." 
 
 ---
