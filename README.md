@@ -1,4 +1,4 @@
-# PortfolioHUB - Desafio Final 
+# PortfolioHUB 
 
 **Autor:** Tiago Ribeiro  
 **Instituição:** CEUB  
